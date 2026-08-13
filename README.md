@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**danielcmlim/danielcmlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Daniel
 
-Here are some ideas to get you started:
+Incoming MEng Electrical and Electronic Engineering student at the
+University of Manchester.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I have developed foundational programming experience through Java projects
+completed in BC Programming 12. I am interested in problem-solving,
+software engineering, embedded systems and robotics.
+
+## Current skills
+
+- Java
+- Object-oriented programming
+- Arrays, ArrayLists and collections
+- File input/output
+- Debugging and program design
+- Git and GitHub
+
+## Currently exploring
+
+- C/C++
+- Python
+- Embedded systems
+- Robotics and control systems
+
+## Selected projects
+
+- [Java final project](link) — [one concrete sentence on what it does].
+- [Java OOP project](link) — [one concrete sentence on classes or logic].
+- [BC Programming 12 archive](link) — introductory Java coursework and
+  programming exercises.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/danielcmlim/)
+
