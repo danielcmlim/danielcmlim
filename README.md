@@ -28,7 +28,8 @@ software engineering, embedded systems and robotics.
 
 ## Selected projects
 
-- [Java final project](link) — [one concrete sentence on what it does].
+- [Java final project](https://github.com/danielcmlim/CP12-TowerDefenceGame) — [A tower defense game where players defend against waves of unique enemies using different weapons, earn currency, and spend it in a shop to upgrade weapons and unlock companions.].
+- 
 - [Java OOP project](link) — [one concrete sentence on classes or logic].
 - [BC Programming 12 archive](link) — introductory Java coursework and
   programming exercises.
