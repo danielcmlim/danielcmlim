@@ -1,4 +1,3 @@
-
 # Hi, I'm Daniel
 
 Incoming MEng Electrical and Electronic Engineering student at the
@@ -28,10 +27,11 @@ software engineering, embedded systems and robotics.
 
 ## Selected projects
 
-- [Java final project](https://github.com/danielcmlim/CP12-TowerDefenceGame) — [A tower defense game where players defend against waves of unique enemies using different weapons, earn currency, and spend it in a shop to upgrade weapons and unlock companions.].
-- 
+- [Java final project](https://github.com/danielcmlim/CP12-TowerDefenceGame) — A tower defense game where players defend against waves of unique enemies using different weapons, earn currency, and spend it in a shop to upgrade weapons and unlock companions.
+  
 - [Java OOP project](link) — [one concrete sentence on classes or logic].
-- [BC Programming 12 archive](link) — introductory Java coursework and
+  
+- [BC Programming 12 archive](https://github.com/danielcmlim/oop_review) — introductory Java coursework and
   programming exercises.
 
 ## Connect
