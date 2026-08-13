@@ -29,9 +29,9 @@ software engineering, embedded systems and robotics.
 
 - [Java final project](https://github.com/danielcmlim/CP12-TowerDefenceGame) — A tower defense game where players defend against waves of unique enemies using different weapons, earn currency, and spend it in a shop to upgrade weapons and unlock companions.
   
-- [Java OOP project](link) — [one concrete sentence on classes or logic].
+- [Java OOP project](https://github.com/danielcmlim/Elemental-Platformer) — A physics-based platformer where players navigate challenging levels, avoid deadly hazards, and use momentum, jumps, and environmental mechanics to survive.
   
-- [BC Programming 12 archive](https://github.com/danielcmlim/oop_review) — introductory Java coursework and
+- [BC Programming 12 archive](https://github.com/danielcmlim/oop_review) — Introductory Java coursework and
   programming exercises.
 
 ## Connect
