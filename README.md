@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Daniel Lim — Electrical & Electronic Engineering" width="100%">
+</p>
+
 # Hi, I'm Daniel
 
 Incoming MEng Electrical and Electronic Engineering student at the
