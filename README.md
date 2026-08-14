@@ -37,5 +37,5 @@ software engineering, embedded systems and robotics.
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/danielcmlim/)
-- Email: danielcmlim1@gmail.com
+- danielcmlim1@gmail.com
 
