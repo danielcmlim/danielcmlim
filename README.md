@@ -2,44 +2,36 @@
   <img src="banner.png" alt="Daniel Lim — Electrical & Electronic Engineering" width="100%">
 </p>
 
-# Hi, I'm Daniel
+# Hi, I'm Daniel 
 
-Incoming MEng Electrical and Electronic Engineering student at the
-University of Manchester.
+MEng Electrical and Electronic Engineering student at the University of Manchester.
 
-## About me
+## About Me
 
-I have developed foundational programming experience through Java projects
-completed in BC Programming 12. I am interested in problem-solving,
-software engineering, embedded systems and robotics.
+Interested in software development, problem-solving, embedded systems, and robotics. Currently developing my programming skills through Java and C/C++ projects.
 
-## Current skills
+## Skills
 
 - Java
-- Object-oriented programming
-- Arrays, ArrayLists and collections
-- File input/output
-- Debugging and program design
-- Git and GitHub
+- Object-Oriented Programming
+- Data Structures & Collections
+- File I/O
+- Debugging & Software Design
 
-## Currently exploring
+## Currently Exploring
 
 - C/C++
-- Python
-- Embedded systems
-- Robotics and control systems
+- Embedded Systems
+- Robotics & Control Systems
 
-## Selected projects
+## Projects
 
-- [Java final project](https://github.com/danielcmlim/CP12-TowerDefenceGame) — A tower defense game where players defend against waves of unique enemies using different weapons, earn currency, and spend it in a shop to upgrade weapons and unlock companions.
-  
-- [Java OOP project](https://github.com/danielcmlim/Elemental-Platformer) — A physics-based platformer where players navigate challenging levels, avoid deadly hazards, and use momentum, jumps, and environmental mechanics to survive.
-  
-- [BC Programming 12 archive](https://github.com/danielcmlim/oop_review) — Introductory Java coursework and
-  programming exercises.
+- 🎮 [Tower Defence Game](https://github.com/danielcmlim/CP12-TowerDefenceGame) — Java/libGDX tower defence game with enemy types, weapons, upgrades, and companions.
+
+- 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer) — Physics-based Java platformer focused on movement, hazards, and level design.
+
+- 👾 [Monster OOP Project](https://github.com/danielcmlim/oop_review) — Console-based Java project demonstrating OOP through an abstract `Monster` class and different monster types.
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/danielcmlim/)
-- danielcmlim1@gmail.com
-
+[LinkedIn](https://www.linkedin.com/in/danielcmlim/) • danielcmlim1@gmail.com
