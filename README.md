@@ -35,4 +35,3 @@ I enjoy developing projects that improve my problem-solving and software design 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/danielcmlim/) • [Email](mailto:danielcmlim1@gmail.com)
-```
