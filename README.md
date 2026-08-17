@@ -4,11 +4,11 @@
 
 # Hi, I'm Daniel 👋
 
-MEng Electrical and Electronic Engineering student at the University of Manchester, with an interest in software development, embedded systems, and robotics.
+MEng Electrical and Electronic Engineering student at the University of Manchester, with an interest in software development, embedded systems and robotics.
 
 ## About Me
 
-I enjoy developing projects that improve my programming, problem-solving, and software design skills. Currently working with Java and exploring C/C++ alongside embedded systems and robotics.
+I enjoy developing projects that improve my problem-solving and software design skills. I am currently working with Java and exploring C/C++ alongside embedded systems and robotics.
 
 ## Skills
 
