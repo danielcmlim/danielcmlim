@@ -32,7 +32,7 @@ I enjoy developing projects that improve my problem-solving and software design 
 
 - 👾 [Monster OOP Project](https://github.com/danielcmlim/Monster-OOP-Project) — A console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
   
--  🤖 [886U VEX High Stakes](https://github.com/danielcmlim/886U) — C/C++ robot code developed for the VEX Robotics High Stakes competition, focusing on autonomous routines, driver control, and robot mechanisms.
+-  🤖 [886U VEX High Stakes](https://github.com/danielcmlim/886U-VEX-High-Stakes) — C/C++ robot code developed for the VEX Robotics High Stakes competition, focusing on autonomous routines, driver control, and robot mechanisms.
   
 
 ## Connect
