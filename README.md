@@ -4,37 +4,46 @@
 
 # Hi, I'm Daniel 👋
 
-MEng Electrical and Electronic Engineering student at the University of Manchester, with an interest in software development, embedded systems and robotics.
+MEng Electrical and Electronic Engineering student at the University of Manchester, interested in software development, embedded systems, and robotics.
 
 ## About Me
 
-I enjoy developing projects that improve my problem-solving and software design skills. I am currently working with Java and exploring C/C++ alongside embedded systems and robotics.
+I build projects that develop my problem-solving and software-design skills. I currently work primarily with Java and am expanding into C/C++, embedded systems, and robotics.
 
-## Skills
+## Technical Skills
 
-- Java
-- Object-Oriented Programming
-- Data Structures & Collections
-- File I/O
-- Debugging & Software Design
+**Languages:** Java, C/C++  
+**Software development:** Object-oriented programming, data structures and collections, file I/O, debugging, software design  
+**Areas of interest:** Embedded systems, robotics, control systems
 
 ## Currently Exploring
 
-- C/C++
-- Embedded Systems
-- Robotics & Control Systems
+- C/C++ for robotics and embedded development
+- Embedded systems and hardware-software integration
+- Robotics and autonomous control systems
 
-## Projects
+## Featured Projects
 
-- 🎮 [Tower Defence Game](https://github.com/danielcmlim/CP12-TowerDefenceGame) — A Java/libGDX tower defence game featuring different enemy types, weapons, upgrades, and companions.
+### 🎮 [Tower Defence Game](https://github.com/danielcmlim/CP12-TowerDefenceGame)
+**Java · LibGDX · Object-oriented design**
 
-- 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer) — A physics-based Java platformer focused on movement, hazards, and level design.
+Built a tower-defence game featuring multiple enemy types, weapons, upgrades, companions, and strategic gameplay systems.
 
-- 👾 [Monster OOP Project](https://github.com/danielcmlim/Monster-OOP-Project) — A console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
-  
--  🤖 [886U VEX High Stakes](https://github.com/danielcmlim/886U-VEX-High-Stakes) — C/C++ robot code developed for the VEX Robotics High Stakes competition, focusing on autonomous routines, driver control, and robot mechanisms.
-  
+### 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer)
+**Java · Physics-based gameplay · Level design**
+
+Developed a physics-based platformer centred on player movement, environmental hazards, and level design.
+
+### 👾 [Monster OOP Project](https://github.com/danielcmlim/Monster-OOP-Project)
+**Java · Inheritance · Polymorphism**
+
+Created a console-based Java project that applies object-oriented programming through an abstract `Monster` class and multiple specialised monster types.
+
+### 🤖 [886U VEX High Stakes](https://github.com/danielcmlim/886U-VEX-High-Stakes)
+**C/C++ · VEX Robotics · Autonomous control**
+
+Developed competition robot code for VEX Robotics High Stakes, covering autonomous routines, driver control, and robot mechanisms.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/danielcmlim/) • [Email](mailto:danielcmlim1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danielcmlim/) · [Email](mailto:danielcmlim1@gmail.com)
