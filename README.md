@@ -4,48 +4,35 @@
 
 # Hi, I'm Daniel 👋
 
-**MEng Electrical & Electronic Engineering student at the University of Manchester**, interested in software development, embedded systems, and robotics.
-
-I enjoy building projects that strengthen my programming, problem-solving, and software design skills while exploring how software interacts with hardware.
+MEng Electrical and Electronic Engineering student at the University of Manchester, with an interest in software development, embedded systems, and robotics.
 
 ## About Me
 
-- 🎓 MEng Electrical & Electronic Engineering — University of Manchester
-- 💻 Developing projects in **Java and C/C++**
-- ⚙️ Exploring **embedded systems, robotics, and control**
-- 🧩 Interested in software design, problem-solving, and understanding how systems work
+I enjoy developing projects that improve my programming, problem-solving, and software design skills. Currently working with Java and exploring C/C++ alongside embedded systems and robotics.
 
 ## Skills
 
-**Programming**
 - Java
-- C/C++ *(currently developing)*
-
-**Software**
 - Object-Oriented Programming
 - Data Structures & Collections
 - File I/O
-- Debugging
-- Software Design
+- Debugging & Software Design
 
 ## Currently Exploring
 
 - C/C++
 - Embedded Systems
-- FPGA Fundamentals
 - Robotics & Control Systems
 
-## Featured Projects
+## Projects
 
-🎮 **[Tower Defence Game](https://github.com/danielcmlim/CP12-TowerDefenceGame)**  
-Java/libGDX tower defence game featuring multiple enemy types, weapons, upgrades, and companions.
+- 🎮 [Tower Defence Game](https://github.com/danielcmlim/CP12-TowerDefenceGame) — A Java/libGDX tower defence game featuring different enemy types, weapons, upgrades, and companions.
 
-🎮 **[Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer)**  
-Physics-based Java platformer focused on movement mechanics, hazards, and level design.
+- 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer) — A physics-based Java platformer focused on movement, hazards, and level design.
 
-👾 **[Monster OOP Project](https://github.com/danielcmlim/oop_review)**  
-Console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
+- 👾 [Monster OOP Project](https://github.com/danielcmlim/oop_review) — A console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/danielcmlim/) · [Email](mailto:danielcmlim1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/danielcmlim/) • [Email](mailto:danielcmlim1@gmail.com)
+```
