@@ -30,7 +30,7 @@ I enjoy developing projects that improve my problem-solving and software design 
 
 - 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer) — A physics-based Java platformer focused on movement, hazards, and level design.
 
-- 👾 [Monster OOP Project](https://github.com/danielcmlim/oop_review) — A console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
+- 👾 [Monster OOP Project](https://github.com/danielcmlim/Monster-OOP-Project) — A console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple monster types.
 
 ## Connect
 
