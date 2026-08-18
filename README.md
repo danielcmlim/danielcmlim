@@ -4,24 +4,23 @@
 
 # Hi, I'm Daniel 👋
 
-MEng Electrical and Electronic Engineering student at the University of Manchester, interested in software development, embedded systems and robotics.
+MEng Electrical and Electronic Engineering student at the University of Manchester focused on software development, embedded systems and robotics.
 
 ## About Me
 
-I build projects that strengthen my problem-solving and software design skills. I work with Java and C++ and am developing further experience with C/C++ for embedded and robotics applications. I have applied C++ to VEX V5 competition robotics and am continuing to develop my skills in embedded systems and autonomous control.
+I build software and robotics projects to develop my programming, problem-solving and engineering skills. My current experience includes Java and C++ with a focus on object-oriented design and autonomous robotics.
 
 ## Technical Skills
 
 **Languages:** Java, C++  
-**Software development:** Object-oriented programming, data structures and collections, file I/O, debugging and software design  
-**Robotics:** Autonomous routines, driver control, odometry, PID control and mechanism control  
-**Areas of interest:** Embedded systems, robotics and control systems
+**Software:** Object-oriented programming, data structures, file I/O, debugging and software design  
+**Robotics:** Autonomous routines, driver control, odometry, PID control and mechanism control
 
 ## Currently Exploring
 
 - Embedded systems and hardware-software integration
-- C/C++ for embedded and robotics applications
-- Robotics and autonomous control systems
+- C/C++ for embedded applications
+- Robotics and autonomous systems
 
 ## Featured Projects
 
@@ -29,25 +28,25 @@ I build projects that strengthen my problem-solving and software design skills. 
 
 **Java · libGDX · Object-oriented design**
 
-Built a tower-defence game featuring multiple enemy types, weapons, upgrades, companions and strategic gameplay systems.
+Built a tower-defence game featuring enemy systems, weapons, upgrades, companions and resource management.
 
 ### 🎮 [Elemental Platformer](https://github.com/danielcmlim/Elemental-Platformer)
 
 **Java · libGDX · Physics-based gameplay**
 
-Developed a physics-based platformer focused on responsive player movement, environmental hazards, collision detection and progressive level design.
+Developed a platformer focused on player movement, collision detection, environmental hazards and progressive level design.
 
 ### 👾 [Monster OOP Project](https://github.com/danielcmlim/Monster-OOP-Project)
 
-**Java · Inheritance · Polymorphism**
+**Java · OOP · Inheritance · Polymorphism**
 
-Created a console-based Java project demonstrating object-oriented programming through an abstract `Monster` class and multiple specialised monster types.
+Created a console-based project demonstrating abstraction, inheritance, encapsulation and polymorphism through a monster combat system.
 
 ### 🤖 [886U VEX High Stakes](https://github.com/danielcmlim/886U-VEX-High-Stakes)
 
 **C++ · VEX Robotics · Autonomous control**
 
-Developed competition robot software for VEX High Stakes covering autonomous routines, driver control, odometry, PID control and robot mechanisms.
+Developed competition robot software covering autonomous routines, driver control, odometry, PID control and mechanism control.
 
 ## Connect
 
